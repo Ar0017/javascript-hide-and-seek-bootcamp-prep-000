@@ -21,5 +21,5 @@ function deepestChild() {
   let nextNode = node.children[0]
   while (nextNode)
   node = nextNode
-  nextNode = document.getElementById
+  nextNode = 
 }
