@@ -17,5 +17,5 @@ function increaseRankBy(n) {
 }
 
 function deepestChild() {
-  let node = 
+  let node = document.getBy
 }
